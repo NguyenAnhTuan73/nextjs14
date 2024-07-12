@@ -1,9 +1,7 @@
 export default function Home() {
   return (
-    <main>
-      <div className="text-2xl">
-        <h1>Nextjs</h1>
-      </div>
+    <main className="overflow-hidden">
+      <p>Home page</p>
     </main>
   );
 }
